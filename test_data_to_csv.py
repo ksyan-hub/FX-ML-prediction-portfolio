@@ -26,4 +26,4 @@ rates_frame['time']=pd.to_datetime(rates_frame['time'], unit='s')
 print("\nDisplay dataframe with data")
 print(rates_frame)
 
-rates_frame.to_csv(r'C:\Users\bfgtu\OneDrive\デスクトップ\xgboost_練習_1\試作_1\TestDate_USDJPY_5m_20260713_20260720.csv',index=False)
+rates_frame.to_csv(r'.\TestDate_USDJPY_5m_20260713_20260720.csv',index=False)
