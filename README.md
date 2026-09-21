@@ -40,13 +40,13 @@ FXレート予測モデルを試作1から段階的に発展させてきた過�
 
 
 
--[試作1](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-1)
+- [試作1](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-1)
 
--[試作2](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-2)
+- [試作2](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-2)
 
--[試作3](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-3)
+- [試作3](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-3)
 
--[試作4](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-4)
+- [試作4](https://github.com/ksyan-hub/MetaTrader5-ML-prototype-4)
 
 
 
