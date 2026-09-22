@@ -24,7 +24,7 @@
 
 ## 動作環境
 
-- Windows(MetaTrader5 パッケージが Windows 専用のため)
+- Windows(MetaTrader5がWindowsの専用のため)
 - MetaTrader5のアカウントか口座が必要
 - 必要パッケージ: pandas, xgboost, MetaTrader5, pytz
 
