@@ -30,16 +30,16 @@ USDJPY 5分足データを使い、XGBoost で高値(high)を予測する最初�
 ## 結果
 
 Name: high, Length: 1441, dtype: float64
-[0]     train-rmse:0.29720      eval-rmse:0.18040
-[1]     train-rmse:0.26814      eval-rmse:0.16218
-[2]     train-rmse:0.24195      eval-rmse:0.14583
-[3]     train-rmse:0.21833      eval-rmse:0.13123
-[4]     train-rmse:0.19705      eval-rmse:0.11820
-[5]     train-rmse:0.17786      eval-rmse:0.10645
-[6]     train-rmse:0.16055      eval-rmse:0.09573
-[7]     train-rmse:0.14496      eval-rmse:0.08622
-[8]     train-rmse:0.13089      eval-rmse:0.07770
-[9]     train-rmse:0.11819      eval-rmse:0.07000
+- [0]     train-rmse:0.29720      eval-rmse:0.18040
+- [1]     train-rmse:0.26814      eval-rmse:0.16218
+- [2]     train-rmse:0.24195      eval-rmse:0.14583
+- [3]     train-rmse:0.21833      eval-rmse:0.13123
+- [4]     train-rmse:0.19705      eval-rmse:0.11820
+- [5]     train-rmse:0.17786      eval-rmse:0.10645
+- [6]     train-rmse:0.16055      eval-rmse:0.09573
+- [7]     train-rmse:0.14496      eval-rmse:0.08622
+- [8]     train-rmse:0.13089      eval-rmse:0.07770
+- [9]     train-rmse:0.11819      eval-rmse:0.07000
 
 ## 学び・今後の課題
 
