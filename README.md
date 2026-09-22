@@ -29,7 +29,10 @@
 - 必要パッケージ: pandas, xgboost, MetaTrader5, pytz
 
 ## 実行結果
-! predictions.csv
+  
+## 実行結果
+
+予測結果: [predictions.csv](predictions.csv)
 
 ## この試作の位置づけ・今後の課題
 
