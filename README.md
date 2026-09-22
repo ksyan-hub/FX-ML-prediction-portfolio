@@ -28,6 +28,10 @@
 - MetaTrader5のアカウントか口座が必要
 - 必要パッケージ: pandas, xgboost, MetaTrader5, pytz
 
+## 実行結果
+
+- predictions.csv
+
 ## この試作の位置づけ・今後の課題
 
 - 試作1のリーク(同じ行のデータからhighをドロップして特徴量として予測をしていた問題)を、過去windowのみを使う形に変更して解消した
