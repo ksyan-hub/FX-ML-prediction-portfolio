@@ -51,7 +51,6 @@ with open(predict_csv_file_path, "a", newline ="") as file:
                     sum_se = sum_se + val
 
                 mse= sum_se /  count_se
-                print(mse)
                 se_buffer = [] #bufferをリセット
 
             else:mse = None
