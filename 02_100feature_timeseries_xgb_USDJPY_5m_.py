@@ -3,11 +3,8 @@ import xgboost as xgb
 import matplotlib.pyplot as plt
 
 train_csv_file = open(r".\TrainDate_USDJPY_5m_from2026, 8, 10_to2026, 8, 11.csv")
-test_csv_file = open(r".\TestDate_USDJPY_5m_from2026, 8, 11_to2026, 8, 12.csv")
 train_df_USDJPY_5m = pd.read_csv(train_csv_file)
-test_df_USDJPY_5m = pd.read_csv(test_csv_file)
 train_csv_file.close()
-test_csv_file.close()
 train_df_USDJPY_5m = train_df_USDJPY_5m.drop(columns="spread")
 window = 100
 ohlcvr_cols = ["open", "high", "low", "close", "tick_volume", "real_volume"]
