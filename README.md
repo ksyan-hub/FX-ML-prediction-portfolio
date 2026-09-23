@@ -27,8 +27,8 @@
 
 ## 動作環境
 
-- Windows(MetaTrader5がWindowsの専用のため)
-- MT5 端末とブローカー口座が必要
+- windows(MetaTrader5がwindows専用のため）
+- MetaTrader5のアカウントか、それを使用する証券口座
 - 必要パッケージ: pandas, numpy, xgboost, MetaTrader5, pytz
 
 ## 結果
