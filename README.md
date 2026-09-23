@@ -29,7 +29,7 @@
 
 - windows(MetaTrader5がwindows専用のため）
 - MetaTrader5のアカウントか、それを使用する証券口座
-- 必要パッケージ: pandas, numpy, xgboost, MetaTrader5, pytz
+- 必要ライブラリ: pandas, numpy, xgboost, MetaTrader5, pytz
 
 ## 結果
 
