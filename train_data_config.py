@@ -14,4 +14,4 @@ class train_data_config:
         self.end = (traindata_end_year, traindata_end_month, traindata_end_day)
         self.time_frame = (time_frame_data)
         self.file_path = rf".\csv_rate_data\traindata_from{self.start}_to{self.end}.csv"
-        self.pred_file = rf".\predict_csv\試作_4_predicted_high_from{self.start}_to{self.end}.csv"
+        self.pred_file = rf".\predict_csv\04_predicted_high_from{self.start}_to{self.end}.csv"
