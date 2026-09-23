@@ -23,7 +23,7 @@ USDJPY 5分足データを使い、XGBoost で高値(high)を予測する最初�
 
 ## 動作環境
 
-- Windows(MetaTrader5 パッケージが Windows 専用のため)
+- Windows(MetaTrader5が Windows 専用のため)
 - MT5 端末とブローカー口座が必要
 - 必要パッケージ: pandas, numpy, xgboost, scikit-learn, MetaTrader5, pytz
 
