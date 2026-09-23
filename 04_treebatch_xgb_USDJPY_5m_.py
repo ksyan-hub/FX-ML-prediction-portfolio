@@ -1,6 +1,5 @@
 import pandas as pd
 import xgboost as xgb
-from sklearn.metrics import mean_squared_error
 import csv
 from train_data_config import train_data_config
 
