@@ -8,7 +8,7 @@ FXレート予測モデルを試作1から段階的に発展させてきた過�
 
 通貨ペアはドル円で（今後選択できる機能を追加予定）、時間足の高値と安値を予想するモデルです。
 
-現在進行中でtool開発もやっています
+現在進行中でツールの開発もやっています
 ## 本体(継続開発中)
 -[XGB_predict_fxrate_MetaTrader5_tool](https://github.com/ksyan-hub/XGB\_predict\_fxrate\_MetaTrader5\_tool)
 
